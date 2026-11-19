@@ -72,6 +72,3 @@ Built with an editorial aesthetic, tactile micro-interactions, and a mobile-firs
 
 **Zero dependencies. Zero build steps. One file.**
 
----
-
-## 📂 Project Structure
